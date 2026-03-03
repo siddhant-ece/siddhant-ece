@@ -1,5 +1,61 @@
-# 💫 About Me:
-Embedded Systems projects using microcontrollers<br>Open-source beginner-friendly projects<br><br>Embedded C / IoT based projects<br>Advanced DSA problem solving<br><br>System design basics<br><br>Writing clean and optimized C/C++ code<br>Data Structures and Algorithms<br><br>Embedded C<br><br>Microcontroller interfacing (8051 / PIC)<br><br>Basic Web Development<br>C programming<br><br>Basic electronics and circuits<br><br>Microcontrollers & interfacing<br>I enjoy turning theoretical electronics concepts into real working circuits.
+<h1 align="center">Hi 👋, I'm Siddhant Singh</h1>
+<h3 align="center">Electronics & Communication Engineering Student | Embedded Systems Enthusiast</h3>
+
+---
+
+## ✨ About Me:
+
+I am an Electronics & Communication Engineering student passionate about Embedded Systems and Microcontroller-based design.
+
+- 🔹 Strong foundation in **C, C++ and Embedded C**
+- 🔹 Hands-on experience with **8051 and PIC microcontrollers**
+- 🔹 Skilled in **LCD interfacing, ADC, PWM and DC motor control**
+- 🔹 Good understanding of **Data Structures & Algorithms**
+- 🔹 Basic knowledge of **System Design concepts**
+- 🔹 Interested in **Robotics and IoT-based projects**
+
+I enjoy turning theoretical electronics concepts into real, working hardware projects and continuously improving my problem-solving skills.
+
+---
+
+## 🛠️ Technical Skills:
+
+### 💻 Programming
+- C
+- C++
+- Embedded C
+
+### 🔌 Microcontrollers
+- 8051
+- PIC18F458
+
+### ⚙️ Interfacing & Hardware
+- LCD (8-bit & 4-bit)
+- 7-Segment Display
+- ADC
+- PWM
+- DC Motor Control
+
+### 🌐 Basic Web
+- HTML
+- CSS
+
+---
+
+## 🚀 Projects Focus
+- Embedded Systems Projects  
+- Microcontroller Interfacing  
+- Robotics & Automation  
+- Hardware + Software Integration  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/siddhant-singh-bbb09b28b
+
+---
+
+⭐ *Always learning. Always building.*
 
 
 ## 🌐 Socials:
